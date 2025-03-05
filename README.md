@@ -27,7 +27,7 @@ credits: ChatGpt(да да нейронка) - fix code
 ## 🚀 Использование
 
 1. **Меню программы**  
-   <img src="screenshots/select_file.png" width="400">
+   <img src="main_menu.png" width="400">
 
 2. **Сканирование файла**  
    ```bash
